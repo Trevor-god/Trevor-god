@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.bi{
+    position:relative;
+    margin-left:25px;
+}
+h1{
+    color: blueviolet;
+    text-decoration: solid;
+    text-align: center;
+    font-family:verdana;
+;
+}
